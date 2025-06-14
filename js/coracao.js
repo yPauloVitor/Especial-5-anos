@@ -27,7 +27,7 @@ button.addEventListener('click', () => {
   explodeHearts();
 
   setTimeout(() => {
-    window.location.href = "page/index.html";
+    window.location.href = "nossapage.html";
   }, 1000);
 });
 
