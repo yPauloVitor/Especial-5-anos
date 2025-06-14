@@ -2,15 +2,15 @@ document.addEventListener('DOMContentLoaded', function () {
     const carouselSlide = document.querySelector('.carousel-slide');
 
     const photos = [
-        '/assets/ft01.jpeg',
-        '/assets/ft02.jpeg',
-        '/assets/ft03.jpeg',
-        '/assets/ft04.jpeg',
-        '/assets/ft05.jpeg',
-        '/assets/ft06.jpeg',
-        '/assets/ft07.jpeg',
-        '/assets/ft08.jpeg',
-        '/assets/ft09.jpeg'
+        '../assets/ft01.jpeg',
+        '../assets/ft02.jpeg',
+        '../assets/ft03.jpeg',
+        '../assets/ft04.jpeg',
+        '../assets/ft05.jpeg',
+        '../assets/ft06.jpeg',
+        '../assets/ft07.jpeg',
+        '../assets/ft08.jpeg',
+        '../assets/ft09.jpeg'
     ];
     
      // Adiciona imagens ao carrossel
