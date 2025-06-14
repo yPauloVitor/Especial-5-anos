@@ -65,6 +65,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
     });
 
+    
    function updateTimeTogether() {
     const startDate = new Date(2020, 5, 14);
     
